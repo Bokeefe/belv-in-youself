@@ -1,1 +1,1 @@
-web: node /dest/main.js
+web: node /app/main.js
